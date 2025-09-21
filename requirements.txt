@@ -1,0 +1,2 @@
+prettytable==3.16.0
+python-telegram-bot==22.4
